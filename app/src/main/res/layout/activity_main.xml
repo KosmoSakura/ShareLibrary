@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/sina"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50px"
+        android:background="@drawable/shape_circular_yellow"
+        android:text="Sina"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/s_friend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50px"
+        android:background="@drawable/shape_circular_yellow"
+        android:text="QQ朋友"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/s_zone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50px"
+        android:background="@drawable/shape_circular_yellow"
+        android:text="QQ空间"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/weichat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50px"
+        android:background="@drawable/shape_circular_yellow"
+        android:text="微信朋友"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/weichat_circle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50px"
+        android:background="@drawable/shape_circular_yellow"
+        android:text="微信朋友圈"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/sssss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="canuinuisnu"/>
+</LinearLayout>
